@@ -1,2 +1,2 @@
-Bu proje, Spring Boot kullanarak geliştirilmiş basit bir RESTful API uygulamasıdır. Kategoriler ve ürünler için temel CRUD işlemleri sağlar ve veri yönetimi için JPA ile entegre edilmiştir. 
-Ayrıca, Flyway ile veritabanı migrasyonları yapılabilir. Bu API, ürün ve kategori yönetimi yapmak isteyen geliştiriciler için hızlıca entegre edilebilen bir başlangıç sunar.
+This project is a simple RESTful API application developed using Spring Boot. It provides basic CRUD operations for categories and products and is integrated with JPA for data management. 
+Also, database migrations can be done with Flyway. This API offers a quick start for developers who want to do product and category management.
